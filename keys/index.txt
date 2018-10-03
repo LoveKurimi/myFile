@@ -1,0 +1,2 @@
+V	280930031515Z		01	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/CN=server/emailAddress=me@myhost.mydomain
+V	280930031549Z		02	unknown	/C=US/ST=CA/L=SanFrancisco/O=Fort-Funston/CN=client/emailAddress=me@myhost.mydomain
